@@ -1,0 +1,77 @@
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding: 20px;
+    background-color: #f3f6f6;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    margin-top: 30px;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #2d8f8d;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.input-container{
+    display:flex;
+    gap:10px;
+    margin-bottom: 10px;
+    
+}
+input{
+ flex:1;
+ padding:10px;
+ font-size:18px;
+ border:1px solid #ccc;
+ border-radius: 5px;
+}
+.addbtn{
+    padding: 10px;
+    font-size: 18px;
+    color:#fff;
+    border:none;
+    background-color:#007bff;
+    border-radius: 5px;
+    cursor:pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+.reminder-list {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.reminder-list li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(210, 233, 239);
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.dlt-btn{
+    padding:5px 10px;
+    font-size: 16px;
+    color:#fff;
+    border:none;
+    background-color: #dc3545;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+p{
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
+}
+.logo-brand {
+
+    display: flex;
+    padding:22.5px 0px 0px 10px;
+    justify-content: center;
+   
+
+}
