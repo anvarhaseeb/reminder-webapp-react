@@ -1,15 +1,9 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
 In the project directory, you can run:
-
 ### `npm start`
-
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 # The UI: 
 1.Initial:
 ![Screenshot 2023-05-22 141723](https://github.com/anvarhaseeb/reminder-webapp/assets/56551899/528c4118-5b3f-4fd7-a9a3-206a8f3073da)
