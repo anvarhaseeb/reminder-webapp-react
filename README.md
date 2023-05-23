@@ -1,9 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-In the project directory, you can run:
-### `npm start`
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 # The UI: 
 1.Initial:
 ![Screenshot 2023-05-22 141723](https://github.com/anvarhaseeb/reminder-webapp/assets/56551899/528c4118-5b3f-4fd7-a9a3-206a8f3073da)
@@ -15,3 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![Screenshot 2023-05-22 193003](https://github.com/anvarhaseeb/reminder-webapp/assets/56551899/5f0eab30-a1e1-48ab-9ed7-a61b7b9f26ba)
 5.List after deleting:
 ![Screenshot 2023-05-22 141657](https://github.com/anvarhaseeb/reminder-webapp/assets/56551899/e0ff0662-5c67-46ee-a957-7a7bd53be7e3)
+
+In the project directory, you can run:
+### `npm start`
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
